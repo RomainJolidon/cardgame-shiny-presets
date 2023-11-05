@@ -4352,7 +4352,7 @@ function instance$o($$self, $$props, $$invalidate) {
     }
     if ($$self.$$.dirty[1] & 16) {
       $$invalidate(13, foilStyles = `
-    --foil: url(${window.location.href}assets/shiny_masks/${foilId}');
+    --foil: url(https://romainjolidon.github.io/cardgame-shiny-presets/assets/shiny_masks/${foilId}');
     `);
     }
     if ($$self.$$.dirty[1] & 1032192) {
@@ -12215,4 +12215,4 @@ class App extends SvelteComponent {
 new App({
   target: document.getElementById("app")
 });
-//# sourceMappingURL=index.eef61a4b.js.map
+//# sourceMappingURL=index.be41b02e.js.map
