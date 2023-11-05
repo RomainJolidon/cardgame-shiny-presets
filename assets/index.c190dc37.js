@@ -4352,7 +4352,7 @@ function instance$o($$self, $$props, $$invalidate) {
     }
     if ($$self.$$.dirty[1] & 16) {
       $$invalidate(13, foilStyles = `
-    --foil: url(/assets/shiny_masks/${foilId}');
+    --foil: url('../../assets/shiny_masks/${foilId}');
     `);
     }
     if ($$self.$$.dirty[1] & 1032192) {
@@ -12215,4 +12215,4 @@ class App extends SvelteComponent {
 new App({
   target: document.getElementById("app")
 });
-//# sourceMappingURL=index.8b3b4947.js.map
+//# sourceMappingURL=index.c190dc37.js.map
