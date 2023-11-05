@@ -134,7 +134,7 @@
 .big_card:not(.masked).big_card.shiny-rare .big_card__shine:after {
 
     --mask: none;
-    --foil: url("/assets/shiny_masks/illusion.png");
+    --foil: url("../../assets/shiny_masks/illusion.png");
     --imgsize: 33%;
 
     -webkit-mask-image: var(--mask);

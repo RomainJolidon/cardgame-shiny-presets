@@ -1,8 +1,8 @@
 
 .big_card {
 
-    --grain: url("/assets/shiny_masks/grain.webp");
-    --glitter: url("/assets/shiny_masks/glitter.png");
+    --grain: url("../../assets/shiny_masks/grain.webp");
+    --glitter: url("../../assets/shiny_masks/glitter.png");
     --glittersize: 25%;
 
     --space: 5%;

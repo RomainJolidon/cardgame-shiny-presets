@@ -9,7 +9,7 @@
 .big_card:not(.masked)[data-rarity="rare holo vmax"][data-supertype="pokémon"] .big_card__shine:after {
 
     --mask: none;
-    --foil: url("/assets/shiny_masks/vmaxbg.jpg");
+    --foil: url("../../assets/shiny_masks/vmaxbg.jpg");
     --imgsize: 60% 30%;
 
 }

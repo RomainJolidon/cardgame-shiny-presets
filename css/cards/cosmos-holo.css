@@ -27,7 +27,7 @@
 
     /*clip-path: var(--clip);*/
 
-    background-image: url("/assets/shiny_masks/cosmos-bottom.png"),
+    background-image: url("../../assets/shiny_masks/cosmos-bottom.png"),
     repeating-linear-gradient(
             82deg,
             hsl(53, 65%, 60%) calc(var(--space) * 1),
@@ -70,7 +70,7 @@
     content: "";
     z-index: 2;
 
-    background-image: url("/assets/shiny_masks/cosmos-middle-trans.png"),
+    background-image: url("../../assets/shiny_masks/cosmos-middle-trans.png"),
     repeating-linear-gradient(
             82deg,
             hsl(53, 65%, 60%) calc(var(--space) * 1),
@@ -107,7 +107,7 @@
     content: "";
     z-index: 3;
 
-    background-image: url("/assets/shiny_masks/cosmos-top-trans.png"),
+    background-image: url("../../assets/shiny_masks/cosmos-top-trans.png"),
     repeating-linear-gradient(
             82deg,
             hsl(53, 65%, 60%) calc(var(--space) * 1),

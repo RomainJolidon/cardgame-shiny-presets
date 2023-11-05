@@ -113,7 +113,7 @@
 
 .big_card:not(.masked).swsh-pikachu .big_card__shine {
 
-    --foil: url("/assets/shiny_masks/geometric.png");
+    --foil: url("../../assets/shiny_masks/geometric.png");
     --imgsize: 33%;
 
 }

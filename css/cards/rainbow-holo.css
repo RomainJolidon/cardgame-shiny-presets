@@ -115,7 +115,7 @@
 
 .big_card:not(.masked).rainbow-holo .big_card__shine {
 
-    --foil: url("/assets/shiny_masks/illusion-mask.png");
+    --foil: url("../../assets/shiny_masks/illusion-mask.png");
     --imgsize: 33%;
 
 }

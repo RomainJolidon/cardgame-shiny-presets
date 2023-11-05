@@ -171,7 +171,7 @@
 .big_card:not(.masked).radiant-holo .big_card__shine:after {
 
     --mask: none;
-    --foil: url("/assets/shiny_masks/trainerbg.png");
+    --foil: url("../../assets/shiny_masks/trainerbg.png");
     --imgsize: 25% auto;
 
 }
